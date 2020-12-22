@@ -1,2 +1,1 @@
-def sayHello():
-    print("Hello, Again!")
+print("Hello World")
